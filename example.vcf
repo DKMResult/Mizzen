@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+ADR;TYPE=WORK:;;123 Main St.;Anytown;CA;12345;USA
+EMAIL:email@example.com
+FN:Firstname Lastname
+N:Lastname;Firstname;;;
+ORG:Example Company
+TEL;TYPE=VOICE:(123) 555-1234
+TITLE:Job Title
+URL:https://www.example.com/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/your-linkedin-url
+END:VCARD
